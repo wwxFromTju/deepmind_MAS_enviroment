@@ -4,7 +4,7 @@ hope can help people to research.
 
 
 ## enviroment
-![gathering](/gif/gathering.gif)
+<img src="/gif/gathering.gif" width="400" height="100"/>
 
 ![checkers](/gif/checkers.gif =300x100)
 
