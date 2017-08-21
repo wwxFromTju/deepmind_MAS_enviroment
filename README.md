@@ -7,14 +7,14 @@ hope can help people to research.
 ![gathering](/gif/gathering.gif =300x100)
 
 ![checkers](/gif/checkers.gif =300x100)
-![fetch](/gif/fetch.gif =300X100)
 
+![fetch](/gif/fetch.gif =300x100)
 
-![swithlevel0](/gif/swithlevel0.gif =300X100)
+![swithlevel0](/gif/swithlevel0.gif =300x100)
 
-![swithlevel1](/gif/swithlevel1.gif =300X100)
+![swithlevel1](/gif/swithlevel1.gif =300x100)
 
-![swithlevel2](/gif/swithlevel2.gif =300X100)
+![swithlevel2](/gif/swithlevel2.gif =300x100)
 
 
 
