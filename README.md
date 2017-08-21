@@ -4,19 +4,23 @@ hope can help people to research.
 
 
 ## enviroment
-<img src="/gif/gathering.gif" width="400" height="100"/>
+<img src="/gif/gathering.gif" width="500" height="100"/>
+gathering
 
-![checkers](/gif/checkers.gif =300x100)
+<img src="/gif/fetch.gif" width="500" height="100"/>
+fetch
 
-![fetch](/gif/fetch.gif =300x100)
+<img src="/gif/checkers.gif" width="500" height="100"/>
+checkers
 
-![swithlevel0](/gif/swithlevel0.gif =300x100)
+<img src="/gif/switchlevel0.gif" width="500" height="100"/>
+switch level 0
 
-![swithlevel1](/gif/swithlevel1.gif =300x100)
+<img src="/gif/switchlevel1.gif" width="500" height="100"/>
+switch level 1
 
-![swithlevel2](/gif/swithlevel2.gif =300x100)
-
-
+<img src="/gif/switchlevel2.gif" width="500" height="100"/>
+switch level 2
 
 ## Citing
 If you use this env in your research, you can cite it as follows:
