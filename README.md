@@ -5,22 +5,16 @@ hope can help people to research.
 
 ## enviroment
 ![gathering](/gif/gathering.gif =300x100)
-gathering
 
 ![checkers](/gif/checkers.gif =300x100)
-checkers
-
 ![fetch](/gif/fetch.gif =300X100)
-fetch
+
 
 ![swithlevel0](/gif/swithlevel0.gif =300X100)
-swith level 0
 
 ![swithlevel1](/gif/swithlevel1.gif =300X100)
-swith level 1
 
 ![swithlevel2](/gif/swithlevel2.gif =300X100)
-swith level 2
 
 
 
