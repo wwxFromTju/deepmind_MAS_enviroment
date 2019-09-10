@@ -25,13 +25,11 @@ switch level 2
 ## Citing
 If you use this env in your research, you can cite it as follows:
 ```bibtex
-@misc{weixunwang2017deepmind_MAS_enviroment,
-    author = {Weixun Wang},
-    title = {Multiagent enviroment},
-    year = {2017},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/wwxFromTju/deepmind_MAS_enviroment}},
+@article{wang2018towards,
+  title={Towards Cooperation in Sequential Prisoner's Dilemmas: a Deep Multiagent Reinforcement Learning Approach},
+  author={Wang, Weixun and Hao, Jianye and Wang, Yixi and Taylor, Matthew},
+  journal={arXiv preprint arXiv:1803.00162},
+  year={2018}
 }
 ```
 
