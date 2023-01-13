@@ -3,7 +3,7 @@ This repositories support the env in 《Multi-agent Reinforcement Learning in Se
 hope can help people to research.
 
 
-## enviroment
+## environment
 <img src="/gif/gathering.gif" width="500" height="100"/>
 gathering
 
